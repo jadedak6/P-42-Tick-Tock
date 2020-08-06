@@ -1,2 +1,2 @@
-# P-42-Tick-Tock
-I created Tick Tock. Here's my code.
+# p5.play-boilerplate
+Boiler plate for p5.play
